@@ -32,6 +32,4 @@
 #define     S4  PORTDbits.RD13
 
 void initIO(void);
-void initT2( void);
-void initCN5(void);
 #endif
